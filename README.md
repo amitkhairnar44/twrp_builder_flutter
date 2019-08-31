@@ -1,6 +1,6 @@
 # TWRP Builder
 
-This repo is outdated and is not maintained anymore. This repo contains old codes and was developed in the process of learning Flutter. Right now the maintained repository is private and will be made available for public in future.
+#### This repo is outdated and is not maintained anymore. This repo contains old codes and was developed in the process of learning Flutter. Right now the maintained repository is private and will be made available for public in future.
 
 A flutter version of [TWRP Builder](https://github.com/TwrpBuilder/TwrpBuilder) app.
 
